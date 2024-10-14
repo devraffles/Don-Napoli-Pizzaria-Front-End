@@ -1,0 +1,16 @@
+.button{
+    height: 40px;
+    border-radius: 8px;
+    border: 0;
+    background-color: var(--green-900);
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--dark-900);
+    transition: all 0.5s;
+
+    &:hover{
+        background-color: var(--red-900);
+        transform: scale(1.05);
+        color: var(--white);  
+    }
+}
