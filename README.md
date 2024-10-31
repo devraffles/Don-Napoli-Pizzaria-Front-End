@@ -10,7 +10,6 @@ O objetivo desse projeto é simular uma pizzaria onde utilizamos um App e um Sit
 # Feito por:
 Rafael Giorgi - Fullstack
 
-## Como rodar Front-end
 para saber mais do Back-end: https://github.com/devraffles/Don-Napoli-Pizzaria-Back-End
 
 # Como rodar Front-end
