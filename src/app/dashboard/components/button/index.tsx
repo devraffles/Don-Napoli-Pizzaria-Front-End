@@ -8,7 +8,7 @@ interface Props{
     name: string;
 }
 
-export default function Button({ name }: Props) {
+export function Button({ name }: Props) {
     const { pending } = useFormStatus();
     
     return (
