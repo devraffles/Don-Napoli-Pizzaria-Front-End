@@ -13,8 +13,8 @@ export default async function Category() {
   })
 
   return (
-    <main>
+    <>
       <Form categories={response.data} />
-    </main>
+    </>
   );
 }
