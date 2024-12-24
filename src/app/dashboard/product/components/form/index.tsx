@@ -6,7 +6,7 @@ import { ChangeEvent, useState } from "react";
 import { UploadCloud } from "lucide-react";
 
 import Image from 'next/image'
-import Button from "@/app/dashboard/components/button";
+import { Button } from "@/app/dashboard/components/button";
 import { toast } from "sonner";
 
 import { api } from "@/services/api";
